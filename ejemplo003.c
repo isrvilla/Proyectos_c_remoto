@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* Primera modificacion */
+/* modificacion para la segunda rama */
 main()
 
 {
