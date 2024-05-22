@@ -1,0 +1,18 @@
+En primer lugar se realizaran las operaciones indicadas entre parintesis.
+Luego la negacisn.
+Despuis las multiplicaciones, divisiones y el resto de la divisisn.
+Finalmente, las sumas y las restas.
+En caso de tener igual prioridad, se analizan de izquierda a derecha.
+
+
+
+-2 + 3 * 5	=	13
+
+(20+5) % 6	=	166666666666667
+
+
+15 + -5*6 / 10	=	12
+
+2 + 10 / 5 * 2 - 7 % 1	-1
+
+2+4-0
